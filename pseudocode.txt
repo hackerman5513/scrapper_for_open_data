@@ -3,3 +3,5 @@ Loop through all posedziai xml
   go to balsavimai xml with bals_id
    append to file klausimas_id.txt:
       vardas pavarde uz/pries/susilaike
+
+//cyberpunk ux
